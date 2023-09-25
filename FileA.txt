@@ -1,2 +1,3 @@
 this is file A
 Modifiying the file
+Making another change
